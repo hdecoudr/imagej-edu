@@ -1,2 +1,2 @@
-# imagej-edu
+# imagej-plugins
 ImageJ sample plugins
