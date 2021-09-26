@@ -24,4 +24,3 @@ public class HorizontalFlip implements PlugInFilter {
         return DOES_RGB;
     }
 }
-

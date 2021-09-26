@@ -56,4 +56,3 @@ public class DuplicateImage implements PlugInFilter {
         imD.show();
     }
 }
-
