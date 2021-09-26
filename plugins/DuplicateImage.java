@@ -1,5 +1,3 @@
-package com.im.td2;
-
 import ij.IJ;
 import ij.ImagePlus;
 import ij.gui.GenericDialog;
