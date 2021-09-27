@@ -35,7 +35,7 @@ public class ColorSelectMouseSingleImageProcessor {
         this.ip = ip;
         this.distance = distance;
         this.image = NewImage.createRGBImage("Selected Color", this.ip.getWidth(), this.ip.getHeight(), 1, NewImage.FILL_WHITE);
-        _Attr_.refColors = new ArrayList<Integer>();
+        _Attr_.refColors = new ArrayList<>();
     }
 
     public ImagePlus processSelectedColor() {
